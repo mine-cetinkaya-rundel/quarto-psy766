@@ -80,9 +80,15 @@ What does it mean for a data analysis to be “reproducible”?
 
 # Demo
 
-## Let's see Quarto in action {.center}
+## Let's see Quarto in action
 
 <https://github.com/mine-cetinkaya-rundel/quarto-psy766>
+
+<br>
+
+-   If you're a GitHub user: Fork this repo repo and then clone it with RStudio (File \> New Project \> Version Control \> Git \> paste URL of repo)
+
+-   If you're not a GitHub user: Click on green `<> Code` button and then `Download ZIP`. Then, launch the project in RStudio by double clicking on the `quarto-psy766.Rproj` file.
 
 # Parting remarks
 
