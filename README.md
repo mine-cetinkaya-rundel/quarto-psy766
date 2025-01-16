@@ -1,4 +1,4 @@
-# quarto-rladies-cologne
+# quarto-psy766
 
 Hello, Quarto: A World of Possibilities (for Reproducible Publishing) talk for R-Ladies Cologne
 
